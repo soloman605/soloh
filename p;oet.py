@@ -1,0 +1,2 @@
+# disp;lay output
+print
